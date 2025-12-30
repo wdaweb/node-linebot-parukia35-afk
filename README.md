@@ -28,4 +28,4 @@
 若使用 GitHub 網頁進行 commit 會依次數扣分
 
 ## 作業連結
-- [LINEBOT_ArtEventLI_ArtEventLI_ArtEventn(https://github.com/parukia35
+- [LINEBOT_ArtEvent](https://github.com/parukia35-afk/LINEBOT_ArtEvent)
